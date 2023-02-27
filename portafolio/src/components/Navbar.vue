@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-ligth bg-primary fixed-top">
        <a class="navbar-brand" href="/">Mi portafolio</a>
        <button
          class="navbar-toggler"
@@ -41,7 +41,7 @@
             <li class="nav-item">
               <router-link to="/Proyec" class="nav-link">Proyecto integrador</router-link>
             </li>
-           
+            
           </ul>
         </div>
     </nav>

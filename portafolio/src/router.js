@@ -9,22 +9,22 @@ export default{
   routes: [
     {
       path: "/porta",
-      name: "porta",
+      Name: "Portada",
       component: portada
     },
     {
       path: "/intro",
-      name: "intro",
+      Name: "Introducccion",
       component: intro
     },
     {
       path: "/suma",
-      name: "suma",
+      Name: "Sumario",
       component: sumario
     },
     {
       path: "/jorna",
-      name: "jorna",
+      Name: "Jornalizacion",
       component: jorna
     }
   
