@@ -1,16 +1,16 @@
 
-import portada from "./components/porta.vue";
+import porta from "./components/porta.vue";
 import intro from "./components/intro.vue";
-import sumario from "./components/suma.vue";
-import jorna from "./components/jorna.vue";
+import sumari from "./components/suma.vue";
+import jornali from "./components/jorna.vue";
 
 
 export default{
   routes: [
     {
-      path: "/porta",
+      path: "/",
       Name: "Portada",
-      component: portada
+      component: porta
     },
     {
       path: "/intro",
@@ -20,12 +20,12 @@ export default{
     {
       path: "/suma",
       Name: "Sumario",
-      component: sumario
+      component: sumari
     },
     {
       path: "/jorna",
       Name: "Jornalizacion",
-      component: jorna
+      component: jornali
     }
   
   ]

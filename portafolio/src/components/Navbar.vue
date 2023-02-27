@@ -10,7 +10,7 @@
          aria-expanded="false"
          aria-label="Toggle navigation"
        >
-         <span class="navbar-toggler-icon"></span>
+     <span class="navbar-toggler-icon"></span>
        </button>
        <div class="collapse navbar-collapse" id="navbarNav">
          <ul class="navbar-nav ml-auto">
@@ -41,7 +41,6 @@
             <li class="nav-item">
               <router-link to="/Proyec" class="nav-link">Proyecto integrador</router-link>
             </li>
-            
           </ul>
         </div>
     </nav>
